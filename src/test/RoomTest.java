@@ -28,7 +28,7 @@ public class RoomTest {
 
         Guest guest =
             new Guest(
-                new Name("Ali","Raza"),
+                new Name("Hallar","Chandio"),
                 new Address("St 2","Lahore","54000")
             );
 
