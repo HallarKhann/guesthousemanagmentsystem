@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("===== Guest House Management System =====\n");
+        System.out.println("==== Guest House Management System =====\n");
 
        
         GuestHouse guestHouse = new GuestHouse(
