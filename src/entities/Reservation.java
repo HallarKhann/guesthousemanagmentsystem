@@ -48,7 +48,7 @@ public class Reservation {
     }
 
     public void create() {
-        System.out.println("Reservation number " + number + " created.");
+        System.out.println("Reservation num: " + number + " created.");
     }
 
 }
