@@ -46,7 +46,7 @@ public class GuestHouseChainTest {
         guestHouse.addRoom(room);
 
         Guest guest = new Guest(
-                new Name("Babar", "Azam"),
+                new Name("Shahid", "Afridi"),
                 new Address("Street 1", "Lahore", "54000"));
 
         boolean result =
